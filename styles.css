@@ -7,8 +7,6 @@
 	grid-template-rows: repeat(2, 100px);
 
 }
-.item {
-	display:grid;
-	grid-template-columns: repeat(2, 100px);
+
 	
 }
